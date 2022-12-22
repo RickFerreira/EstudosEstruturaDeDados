@@ -1,6 +1,6 @@
 <div align="center">
   
-# AlgoritmosEmC
+# Estudos Estrutura de Dados
   
 <h4>Códigos na linguagem C, utilizados para os estudos de Estrutura de Dados</h4>
   
