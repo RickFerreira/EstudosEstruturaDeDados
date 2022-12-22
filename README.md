@@ -4,7 +4,7 @@
   
 <h4>Códigos na linguagem C, utilizados para os estudos de Estrutura de Dados</h4>
   
-<p ><img  src="https://wallpaperaccess.com/full/1537294.png" width="60%" alt="imagem" >
+<p ><img  src="https://www.freecodecamp.org/portuguese/news/content/images/2022/06/1_s6hhrgR5_tXpO_j7uKaHMw-1.png" width="60%" alt="imagem" >
   
 <p>
 <!-- Image Shields -->
