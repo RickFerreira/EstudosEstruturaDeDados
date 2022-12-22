@@ -8,10 +8,10 @@
   
 <p>
 <!-- Image Shields -->
-<img  alt="Language Top" src="https://img.shields.io/github/languages/top/RickFerreira/AlgoritmosEmC">
-<img  alt="Languages Count" src="https://img.shields.io/github/languages/count/RickFerreira/AlgoritmosEmC">
-<img  alt="Last Commit" src="https://img.shields.io/github/last-commit/RickFerreira/AlgoritmosEmC">
-<img  alt="Repo Size" src="https://img.shields.io/github/repo-size/RickFerreira/AlgoritmosEmC">
+<img  alt="Language Top" src="https://img.shields.io/github/languages/top/RickFerreira/EstudosEstruturaDeDados">
+<img  alt="Languages Count" src="https://img.shields.io/github/languages/count/RickFerreira/EstudosEstruturaDeDados">
+<img  alt="Last Commit" src="https://img.shields.io/github/last-commit/RickFerreira/EstudosEstruturaDeDados">
+<img  alt="Repo Size" src="https://img.shields.io/github/repo-size/RickFerreira/EstudosEstruturaDeDados">
 </a>
 </p>
 
